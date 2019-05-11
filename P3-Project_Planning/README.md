@@ -23,6 +23,7 @@ bulleted/unordered list with links to the files.)
 2-week sprint.)
 
 ![Pivotal Tracker Site](https://www.pivotaltracker.com/n/projects/2343603)
+https://www.pivotaltracker.com/n/projects/2343603
 
 
 
