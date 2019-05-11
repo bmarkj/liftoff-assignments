@@ -8,12 +8,23 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a
+bulleted/unordered list with links to the files.)
+
+* ![Site Registration Page](https://github.com/bmarkj/liftoff-assignments/blob/master/register.png)
+* ![User Home Page](https://github.com/bmarkj/liftoff-assignments/blob/master/home.png)
+* ![Search Page](https://github.com/bmarkj/liftoff-assignments/blob/master/search.png)
+
+
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first
+2-week sprint.)
+
+![Pivotal Tracker Site](https://www.pivotaltracker.com/n/projects/2343603)
+
+
 
 ### Project Repo Link
-
-(Include a link to your project on GitHub)
+![Repository Link](https://github.com/bmarkj/liftoff-books)
