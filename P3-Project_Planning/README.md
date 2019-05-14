@@ -22,7 +22,8 @@ bulleted/unordered list with links to the files.)
 (Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first
 2-week sprint.)
 
-![Pivotal Tracker Site](https://www.pivotaltracker.com/n/projects/2343603)
+[Pivotal Tracker Site](https://www.pivotaltracker.com/n/projects/2343603)
+
 
 
 
