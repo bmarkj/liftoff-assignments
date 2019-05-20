@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+[My GitHub Profile](https://github.com/bmarkj)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[My LinkedIn Profile](https://www.linkedin.com/in/bmarkj/)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
